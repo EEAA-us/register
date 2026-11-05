@@ -4,6 +4,9 @@
     "email": "3176610076@qq.com"
   },
   "records": {
-    "TXT": "vc-domain-verify=shiguang-blog.is-a.dev,0053faaa53cd55ece3f9"
+   "TXT": [
+  "vc-domain-verify=shiguang-blog.is-a.dev,0053faaa53cd55ece3f9",
+  "vc-domain-verify=nav-test.shiguang-blog.is-a.dev,c0bacc6e612eac263335"
+]
   }
 }
